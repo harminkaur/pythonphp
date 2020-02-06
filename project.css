@@ -1,0 +1,12 @@
+body {
+    background-color: darkgrey;
+}
+
+td {
+    background-color: aliceblue;
+}
+
+.img {
+    height: 100px;
+    width: 300px;
+}
